@@ -1,0 +1,16 @@
+Línea 115: la clase MSComctlLib.ImageList del control ImageList1 no era una clase de control cargada.
+Línea 145: la clase MSComctlLib.Toolbar del control Toolbar1 no era una clase de control cargada.
+Línea 118: el nombre de la propiedad _ExtentX de ImageList1 no es válido.
+Línea 119: el nombre de la propiedad _ExtentY de ImageList1 no es válido.
+Línea 121: el nombre de la propiedad ImageWidth de ImageList1 no es válido.
+Línea 122: el nombre de la propiedad ImageHeight de ImageList1 no es válido.
+Línea 123: el nombre de la propiedad MaskColor de ImageList1 no es válido.
+Línea 124: el nombre de la propiedad _Version de ImageList1 no es válido.
+Línea 143: el nombre de la propiedad Images de ImageList1 no es válido.
+Línea 152: el nombre de la propiedad _ExtentX de Toolbar1 no es válido.
+Línea 153: el nombre de la propiedad _ExtentY de Toolbar1 no es válido.
+Línea 154: el nombre de la propiedad ButtonWidth de Toolbar1 no es válido.
+Línea 155: el nombre de la propiedad ButtonHeight de Toolbar1 no es válido.
+Línea 157: el nombre de la propiedad ImageList de Toolbar1 no es válido.
+Línea 158: el nombre de la propiedad _Version de Toolbar1 no es válido.
+Línea 203: el nombre de la propiedad Buttons de Toolbar1 no es válido.
